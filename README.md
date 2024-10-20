@@ -48,6 +48,8 @@ POST /api/register
 }
 ```
 
+## Below API Endpoints expect `Authorization` header.
+
 ## Products
 
 ```http
